@@ -1,0 +1,18 @@
+{
+  "name": "terebyte",
+  "owner": { "name": "Terebyte Inc.", "email": "support@terebyte.com" },
+  "metadata": { "description": "Terebyte for Claude Code: a room in your encrypted vault, and nothing else." },
+  "plugins": [
+    {
+      "name": "terebyte",
+      "source": "./plugins/terebyte",
+      "description": "Give an AI a room in your encrypted Terebyte vault: it sees that room and nothing else.",
+      "version": "0.1.1",
+      "author": { "name": "Terebyte Inc." },
+      "homepage": "https://terebyte.com/connect",
+      "license": "Apache-2.0",
+      "keywords": ["storage", "encryption", "files", "end-to-end", "mcp"],
+      "category": "productivity"
+    }
+  ]
+}

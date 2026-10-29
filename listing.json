@@ -1,0 +1,14 @@
+{
+  "_": "The one text every listing uses (Mark, Oct 29, Part 1.6: same words everywhere). README.md, the manifests and docs/reports/2026-10-29-part-1.md are made from it.",
+  "name": "Terebyte",
+  "oneLine": "Give an AI a room in your encrypted Terebyte vault: it sees that room and nothing else.",
+  "description": "Terebyte is end-to-end encrypted cloud storage. This MCP server lets an assistant or an agent work in one room a member opens to it: list, read and write files, make a Sealed Link, and use the room's board. The member pairs it with a 6-character code and chooses what it may do and for how long. Everything is encrypted and decrypted on the computer it runs on; Terebyte's servers see only sealed bytes.",
+  "categories": ["Productivity", "File storage", "Security"],
+  "homepage": "https://terebyte.com/connect",
+  "docs": "https://terebyte.com/developers/mcp-server",
+  "privacy": "https://terebyte.com/privacy",
+  "support": "support@terebyte.com",
+  "icon": "logo.png",
+  "package": "terebyte",
+  "version": "0.1.1"
+}

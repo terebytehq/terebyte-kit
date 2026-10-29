@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.terebytehq/terebyte",
+  "title": "Terebyte",
+  "description": "Give an AI a room in your encrypted Terebyte vault: it sees that room and nothing else.",
+  "websiteUrl": "https://terebyte.com/connect",
+  "repository": { "url": "https://github.com/terebytehq/terebyte-kit", "source": "github" },
+  "version": "0.1.2",
+  "packages": [
+    { "registryType": "npm", "identifier": "terebyte", "version": "0.1.2", "transport": { "type": "stdio" }, "packageArguments": [{ "type": "positional", "value": "mcp" }] }
+  ]
+}

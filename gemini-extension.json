@@ -1,0 +1,9 @@
+{
+  "name": "terebyte",
+  "version": "0.1.1",
+  "description": "Give an AI a room in your encrypted Terebyte vault: it sees that room and nothing else.",
+  "mcpServers": {
+    "terebyte": { "command": "npx", "args": ["-y", "terebyte@0.1.1", "mcp"] }
+  },
+  "contextFileName": "SKILL.md"
+}
