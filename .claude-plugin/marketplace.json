@@ -7,7 +7,7 @@
       "name": "terebyte",
       "source": "./plugins/terebyte",
       "description": "Give an AI a room in your encrypted Terebyte vault: it sees that room and nothing else.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": { "name": "Terebyte Inc." },
       "homepage": "https://terebyte.com/connect",
       "license": "Apache-2.0",
